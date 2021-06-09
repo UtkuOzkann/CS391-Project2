@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "username": "Fatih",
+      "password": "Fatih12",
+      "name": "Fatih",
+      "email": "fatih.emecen@ozu.edu.tr",
+      "surname": "Emecen",
+      "id": 1
+    },
+    {
+      "username": "Utku",
+      "password": "Utku12",
+      "name": "Utku",
+      "email": "utku.ozkan@ozu.edu.tr",
+      "surname": "Özkan",
+      "id": 2
+    },
+    {
+      "username": "Volkan",
+      "password": "Volkan12",
+      "name": "Volkan",
+      "email": "volkan.cebi@ozu.edu.tr",
+      "surname": "Çebi",
+      "id": 3
+    }
+  ]
+}
